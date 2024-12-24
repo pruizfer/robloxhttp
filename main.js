@@ -1,4 +1,4 @@
-let d = document.CreateElement("div")
+let d = document.createElement("div")
 d.innerHTML = "testAAAA"
 
 let body = document.getElementById("body")
